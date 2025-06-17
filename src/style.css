@@ -1,3 +1,9 @@
 .div1{
     font-size: 40px;
 }
+.pro{
+    display: flex;
+}
+/* .pro{
+    border: 1px solid black;
+} */
